@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratibha</h1>
-<h3 align="center">Software developer Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 - 📫 How to reach me **pnmaran76@gmail.com**
