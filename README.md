@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratibha</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software developer Developer</h3>
 
-- 🌱 Software developer
 
 - 📫 How to reach me **pnmaran76@gmail.com**
 
